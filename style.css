@@ -46,8 +46,8 @@
     width: 300px;
     padding: 10px;
     animation: color 4s infinite;
-    animation-timing-function:ease-in-out;
-    }
+    animation-timing-function:ease;
+        }
 
     @keyframes color {
         0%{
