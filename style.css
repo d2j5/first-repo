@@ -45,7 +45,7 @@
     margin: 5px;
     width: 300px;
     padding: 10px;
-    animation: color 4s 10;
+    animation: color 4s infinite;
     }
 
     @keyframes color {
