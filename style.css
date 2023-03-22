@@ -7,12 +7,13 @@
         text-align: center;
         line-height: 100px;
         color: white;
-        animation: jump 4s infinite;
+        animation: jump 10s infinite;
+        animation-timing-function: ease-in;
         }
         
         @keyframes jump {
             from{
-                transform: translatex(0px);
+                transform: translatex(-1000px);
             }
             to{
                 transform: translatex(1000px);
